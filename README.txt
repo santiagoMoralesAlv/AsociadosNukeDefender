@@ -8,15 +8,16 @@ Faltantes:
 -el juego centa con habilidades con tiempos activo, con cooldown, se pueden comprar, se pueden mejorar, etc. cuenta con todas las funcionalidades pero no esta conectado con la UI, solamente se pueden usar (ignorando el cooldown)
 -no se hace daño en area
 -el nivel no afecta las propeidades de los enemigos
--
 
+-el juego esta totalmente desbalanceado, por lo cual pueden parecer que algunas funciones no sirven, por ejemplo, las mejoras de las torreta mejoran la torreta pero a un nivel insignificante.
+-Otro es que los enemigos se mueren con cierto daño, pero actualmente las balas de la torreta hacen mucho daño por lo cual matan a los enemigos de un solo golpe (estaba asi para prototipar rapido).
 
 
 
 Adiciones: 
 Tienda en DLL
 Sprites propios
-Multiplataforma (Android y PC)
+Multiplataforma (Android y PC) solo se creo un apk
 
 Link Assets: Propios
 
