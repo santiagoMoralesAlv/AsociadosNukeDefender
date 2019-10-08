@@ -1,6 +1,6 @@
 README - El Jugón S.A.S - Cliker Torreta 
 
-
+-La habilidad Overkill tiene como boton un circulo blanco encima de la torre, las demas (incluyendo mejoras) tienen su sprite debido en el GUI de abajo de la torreta
 
 Faltantes:
 -Se puede subir de nivel pero se ha desactivado esta opcion ya que existia un bug al suscribirse a un evento, por lo cual no aumentar el contador de enemigos.
